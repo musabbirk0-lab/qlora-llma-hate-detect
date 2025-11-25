@@ -1,7 +1,7 @@
 
 # README.md
 
-```markdown
+
 # QLoRA + PEFT Fine-Tuning — LLaMA for Hate Speech Detection
 
 This project demonstrates a minimal setup for fine-tuning a LLaMA-family language model using **QLoRA** (4-bit quantization) and **PEFT/LoRA**, applied to a simple **hate speech detection** task. The goal is to provide a lightweight, reproducible example that can be copy-pasted and run on a GPU machine.
